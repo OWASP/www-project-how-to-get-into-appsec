@@ -1,22 +1,22 @@
 ---
 
 layout: col-sidebar
-title: OWASP How to get into AppSec
-tags: example-tag
+title: OWASP How to Get Into AppSec
+tags: 
 level: 2
 type: 
-pitch: A very brief, one-line description of your project
+pitch: Helping new comers to AppSec with advice and guidance.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/projects/)
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Little is more frustrating than working towards a career that isn't well defined. 
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+We hope to change that.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+Complete this [5min survey](https://forms.gle/UoM2PobtbRrZxo3J7) & tell us about what you do in AppSec to help us do that 
+ Thanks! 
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
+<https://forms.gle/UoM2PobtbRrZxo3J7>
+Survey closes 31st May 2021 23:59 UTC
