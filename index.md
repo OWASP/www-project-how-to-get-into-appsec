@@ -25,6 +25,18 @@ In 2021, we collected a [survey of what the AppSec Landscape](https://docs.googl
 
 We are currently processing the data.
 
+#### Update 2024-08-25 - Public Release of AppSec Practitioner's Landscape RAW survey data
+Despite best efforts and intentions, it looks like data processing is going slower than expected. We're sorry - a lot of circumstances (including personal ones of the project team) have changed, and we do not currently have a timeline for the data analysis to be completed. 
+
+In hopes that the data collected will find some use by the community before it becomes too stale, we're releasing the raw survey data publicly under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/). 
+
+You can find them here:
+
+* [AppSec Practitioner's Landscape 2021 - Survey Methodology \[PublicRelease\]\[CC-BY\].pdf](assets/AppSec Practitioner's Landscape 2021 - Survey Methodology [Public Release][CC-BY].pdf)
+* [AppSec Practitioner's Landscape - Survey Form Archive \[PublicRelease\].pdf](assets/AppSec Practitioner's Landscape - Survey Form Archive [PublicRelease].pdf)
+* [AppSec Practitioner's Landscape RAW Responses \[PublicRelease\]\[CC-BY\].xlsx](assets/AppSec Practitioner's Landscape RAW Responses [PublicRelease][CC-BY].xlsx)
+
+
 ## Contributing
 As of April 2023, with renewed focus, we're regrouping and working towards our next steps. More details soon.
 
