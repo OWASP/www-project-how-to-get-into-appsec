@@ -32,10 +32,12 @@ In hopes that the data collected will find some use by the community before it b
 
 You can find them here:
 
-* [AppSec Practitioner's Landscape 2021 - Survey Methodology \[PublicRelease\]\[CC-BY\].pdf](assets/AppSec Practitioner's Landscape 2021 - Survey Methodology [Public Release][CC-BY].pdf)
-* [AppSec Practitioner's Landscape - Survey Form Archive \[PublicRelease\].pdf](assets/AppSec Practitioner's Landscape - Survey Form Archive [PublicRelease].pdf)
-* [AppSec Practitioner's Landscape RAW Responses \[PublicRelease\]\[CC-BY\].xlsx](assets/AppSec Practitioner's Landscape RAW Responses [PublicRelease][CC-BY].xlsx)
+* [AppSec Practitioner's Landscape 2021 - Survey Methodology \[PublicRelease\]\[CC-BY\].pdf](assets/AppSecPractitionersLandscape2021-SurveyMethodology[PublicRelease][CC-BY].pdf)
+* [AppSec Practitioner's Landscape - Survey Form Archive \[PublicRelease\].pdf](assets/AppSecPractitionersLandscape-SurveyFormArchive[PublicRelease].pdf)
+* [AppSec Practitioner's Landscape RAW Responses \[PublicRelease\]\[CC-BY\].xlsx](assets/AppSecPractitionersLandscapeRAWResponses[PublicRelease][CC-BY].xlsx)
 
+We're always keen to hear what you do and discover from these data sets. 
+Do reach out.
 
 ## Contributing
 As of April 2023, with renewed focus, we're regrouping and working towards our next steps. More details soon.
