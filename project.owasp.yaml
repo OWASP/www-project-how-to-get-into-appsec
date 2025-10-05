@@ -1,0 +1,23 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Didar Gelici
+    email: didar.gelici@owasp.org
+  - name: Daniel Ting
+    email: daniel.ting+appsecgithub@owasp.org
+    github: hellodanielting
+level: 2
+name: OWASP How to Get Into AppSec
+pitch: Helping new comers to AppSec with advice and guidance.
+repositories:
+  - name: www-project-how-to-get-into-appsec
+    url: https://github.com/OWASP/www-project-how-to-get-into-appsec
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+type: documentation
+website: https://owasp.org/www-project-how-to-get-into-appsec
